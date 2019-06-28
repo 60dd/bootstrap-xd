@@ -1,7 +1,15 @@
 bootstrap-assets-for-xd
 ---
 
-Bootstrap Design Template — Assets Library — for Adobe XD
+Bootstrap Design Template â€” Assets Library â€” for Adobe XD
+
+## Sample
+
+Typography | Buttons | Tables
+--- | --- | ---
+![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Typography.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Buttons.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Tables.png)
+
+and more. Check other artboards [here `/export`](https://github.com/6qd/bootstrap-assets-for-xd/tree/master/export)
 
 ## Features
 
