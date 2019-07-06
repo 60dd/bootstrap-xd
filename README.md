@@ -5,9 +5,21 @@ Bootstrap Design Template — Assets Library — for Adobe XD
 
 ## Sample
 
-Typography | Buttons | Tables
---- | --- | ---
-![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Typography.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Buttons.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Tables.png)
+Colors | Images | Lists | Tables | Typography
+--- | --- | --- | --- | --- 
+![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Colors.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Images.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Lists.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Tables.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Contents-Typography.png)
+
+Alerts | Badges | Breadcrumb | Buttons | Cards
+--- | --- | --- | --- | --- 
+![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Alerts.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Badges.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Breadcrumb.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Buttons.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Cards.png)
+
+Carousel | Forms | Jumbotron | ListGroup | MediaObject
+--- | --- | --- | --- | --- 
+![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Carousel.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Forms.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Jumbotron.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-ListGroup.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-MediaObject.png)
+
+Modal | Pagination | Progress | Spinners | Toasts
+--- | --- | --- | --- | --- 
+![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Modal.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Pagination.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Progress.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Spinners.png) | ![](https://github.com/6qd/bootstrap-assets-for-xd/blob/master/export/Components-Toasts.png)
 
 and more. Check other artboards from [here `/export`](https://github.com/6qd/bootstrap-assets-for-xd/tree/master/export)
 
