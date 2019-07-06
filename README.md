@@ -23,6 +23,13 @@ Modal | Pagination | Progress | Spinners | Toasts
 
 and more. Check other artboards from [here `/export`](https://github.com/6qd/bootstrap-assets-for-xd/tree/master/export)
 
+That is not all. 
+You can use **Colors and Character Styles of Bootstrap in Assets Panel**. By placing text and objects and applying them, you can create realistic mockup in a short time.
+
+Colors | Character Styles | Compornents
+--- | --- | ---
+![image](https://user-images.githubusercontent.com/14285777/60752652-2fdefe00-a003-11e9-9c83-33534787b4f2.png) | ![image](https://user-images.githubusercontent.com/14285777/60752653-33728500-a003-11e9-88a4-84b6789492a5.png) | ![image](https://user-images.githubusercontent.com/14285777/60752655-366d7580-a003-11e9-9ca6-790e511afa77.png)
+
 ## Features
 
 ### 1. Aiming for a Perfect Bootstrap4 Design Template
