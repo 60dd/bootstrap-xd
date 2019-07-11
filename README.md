@@ -56,7 +56,7 @@ You can use it even if your PC is the other OS like Windows. You can replace the
 - install [Adobe XD](https://www.adobe.com/products/xd.html)
 - go to [Fonts - Apple Developer](https://developer.apple.com/fonts/) and install `SF Pro`
 - in Finder, move to `/Applications/Utilities/Terminal.app/Contents/Resources/Fonts/` and install `SFMono-Regular.otf` files
-- download `bootstrap4-assets.xd` in the zip file from [here](https://github.com/6qd/bootstrap-assets-for-xd/releases), and open it!
+- download XD file from [here](https://github.com/6qd/bootstrap-assets-for-xd/releases/latest), and open it!
 - design with [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/content/typography/)
 
 ## Licence
