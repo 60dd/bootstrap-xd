@@ -34,22 +34,18 @@ Colors | Character Styles | Compornents
 
 ## Features
 
-### 1. Aiming for a Perfect Bootstrap4 Design Template
+### 1. Fully reproduce the browser display.
 
-This XD file reproduced display with real browser until font, line height, letter spacing.  
-how? I copied the screen shot.
+The system font of mac was specified for the object to be placed. If you install fonts according to the README, the preparation is complete.
+Do you care how you did it? I traced the screenshots just.
 
-### 2. Using macOS fonts SF Pro & SF Mono
+### 2. Effective use of Assets Panel.
 
-The XD file in this project is made for macOS Mojave.  
-You can use it even if your PC is the other OS like Windows. You can replace these macOS fonts to others in the XD file.
+Make the most of your asset panel. You can place basic components and change the Colors, or apply Character Styles to placed text.
 
-### 3. Enable Adobe XD's latest features
+### 3. Maximize the possibilities of XD.
 
-- Responsive Sizing
-- Repeat Grid
-- Layout Grid
-- Assets color and character style
+Including many features to make your work more efficient like responsive size features, art boards with grid layout settings, etc.
 
 ## Getting Started
 
